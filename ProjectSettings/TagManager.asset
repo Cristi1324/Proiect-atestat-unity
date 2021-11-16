@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CelestialBody
+  - Background
+  - Star
+  - Planet
+  - Moon
+  - Bullet
+  - PlayerPart
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objects
+  - Enviroment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Stars
+    uniqueID: 3830743307
+    locked: 0
+  - name: Enviroment
+    uniqueID: 4042947119
+    locked: 0
+  - name: Player
+    uniqueID: 2334893443
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

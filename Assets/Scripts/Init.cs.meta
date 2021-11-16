@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46db9449aa8efeb43b5810fb4c181eac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parentPlanet: {instanceID: 0}
+  - parentPlanetmass: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - HealthBar: {fileID: 6224174213264948383, guid: 18d09f1de9d24404495ade55d9518f80,
+      type: 3}
+  executionOrder: 30
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
